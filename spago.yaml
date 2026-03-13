@@ -1,0 +1,17 @@
+package:
+  name: fakerjs
+  dependencies:
+    - arrays
+    - effect
+    - foldable-traversable
+    - maybe
+    - prelude
+    - tuples
+  test:
+    main: Test.Main
+    dependencies:
+      - console
+workspace:
+  packageSet:
+    registry: 73.3.0
+  extraPackages: {}
