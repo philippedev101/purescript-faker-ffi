@@ -237,4 +237,4 @@ element <- runGen Science.chemicalElement
 
 ## License
 
-MIT
+Apache-2.0
