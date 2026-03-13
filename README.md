@@ -1,4 +1,4 @@
-# purescript-fakerjs
+# purescript-faker-ffi
 
 PureScript FFI bindings for [`@faker-js/faker`](https://fakerjs.dev/) v10.
 
@@ -7,7 +7,7 @@ Covers the full fakerjs API surface — 28 modules, 200+ generators — with typ
 ## Install
 
 ```
-spago install fakerjs
+spago install faker-ffi
 bun add @faker-js/faker
 ```
 
